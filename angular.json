@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "travelgram"
+    }
+  },
+  "defaultProject": "travelgram",
+  "cli": {
+    "analytics": false
+  }
 }

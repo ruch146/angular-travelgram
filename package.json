@@ -15,12 +15,22 @@
     "@angular/common": "~9.1.9",
     "@angular/compiler": "~9.1.9",
     "@angular/core": "~9.1.9",
+    "@angular/fire": "^6.0.2",
     "@angular/forms": "~9.1.9",
     "@angular/platform-browser": "~9.1.9",
     "@angular/platform-browser-dynamic": "~9.1.9",
     "@angular/router": "~9.1.9",
+    "@fortawesome/angular-fontawesome": "^0.6.1",
+    "@fortawesome/fontawesome-svg-core": "^1.2.29",
+    "@fortawesome/free-regular-svg-icons": "^5.13.1",
+    "@fortawesome/free-solid-svg-icons": "^5.13.1",
+    "bootstrap": "^4.5.0",
+    "browser-image-resizer": "^2.1.0",
+    "firebase": "^7.15.5",
+    "ngx-toastr": "^12.1.0",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
+    "uuid": "^8.2.0",
     "zone.js": "~0.10.2"
   },
   "devDependencies": {
@@ -41,6 +51,12 @@
     "protractor": "~7.0.0",
     "ts-node": "~8.3.0",
     "tslint": "~6.1.0",
-    "typescript": "~3.8.3"
+    "typescript": "~3.8.3",
+    "@angular-devkit/architect": ">= 0.900 < 0.1100",
+    "firebase-tools": "^8.0.0",
+    "fuzzy": "^0.1.3",
+    "inquirer": "^6.2.2",
+    "inquirer-autocomplete-prompt": "^1.0.1",
+    "open": "^7.0.3"
   }
 }
